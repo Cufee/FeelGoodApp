@@ -1,0 +1,116 @@
+[
+	{
+		"name": "All-or-nothing thinking (splitting)",
+		"description": "Thinking in terms of a false dilemma. In other words, splitting involves using terms like \"always,\" \"every\" or \"never\" when this is not either true or equivalent to the truth.",
+		"id": "01c455f6-5254-4f3d-925f-2e61707ac4c8",
+		"examples": ["If I don't get an A on this test, I'm a complete failure."]
+	},
+	{
+		"name": "Overgeneralization",
+		"description": "Making hasty generalizations from insufficient experiences and evidence. Compare with misleading vividness. Contrast with precautionary principle, where a possible harm is rightly presumed true upon a reasonable suspicion until proven false beyond a reasonable doubt.",
+		"id": "239fd3a7-0cf0-4a42-84d6-395114a9497e",
+		"examples": ["I didn't get the job I applied for, so I'll never find a job."]
+	},
+	{
+		"name": "Magical thinking",
+		"description": "Expectation of specific outcomes based on performance of unrelated acts or utterances. In logic, this is called wishful thinking.",
+		"id": "28980792-9f37-427d-9629-c4862ed170a1",
+		"examples": ["If I wear my lucky shirt, everything will go well today."]
+	},
+	{
+		"name": "Mental filter",
+		"description": "Inability or refusal to view positive or negative features of an experience, for example, noticing only an aesthetic flaw in a piece of otherwise useful clothing, or a single good dish in an otherwise awful meal.",
+		"id": "2c940532-21b3-4d22-b0c8-10af74e427e9",
+		"examples": [
+			"Focusing only on the one negative comment received during a presentation, ignoring all the positive feedback."
+		]
+	},
+	{
+		"name": "Disqualifying the positive",
+		"description": "Discounting positive experiences for arbitrary, ad hoc reasons.",
+		"id": "27a2de0b-7992-42ea-85d3-eae748ccec92",
+		"examples": [
+			"I only got the promotion because they felt sorry for me, not because of my skills."
+		]
+	},
+	{
+		"name": "Jumping to conclusions",
+		"description": "Reaching preliminary conclusions (usually negative) from little (if any) evidence. Two specific subtypes are also identified:",
+		"id": "4ec1df13-0c07-4c12-97dd-fadd22fc7b65",
+		"examples": ["My friend didn't text me back immediately, so they must be mad at me."]
+	},
+	{
+		"name": "Mind reading ",
+		"description": "Inferring a person's possible or probable thoughts from their behavior and nonverbal communication in the context of the situation.",
+		"id": "2c668b1d-6b1f-478b-9a10-b506d444f145",
+		"examples": ["I know my coworker thinks I'm incompetent."]
+	},
+	{
+		"name": "Fortune telling",
+		"description": "Inflexible expectations for how things will turn out before they happen.",
+		"id": "078c7e44-f65d-4d7c-9540-b0c1b9096ce2",
+		"examples": ["I just know I'm going to mess up my speech tomorrow."]
+	},
+	{
+		"name": "Magnification and minimization ",
+		"description": "Giving proportionally greater weight to a perceived failure, weakness or threat, or lesser weight to a perceived success, strength or opportunity, so the weight differs from that assigned to the event or thing by others. This is common enough in the normal population to popularize idioms such as \"make a mountain out of a molehill.\" In depressed clients, often the positive characteristics of other people are exaggerated and negative characteristics are understated.",
+		"id": "025193ee-dbda-42f2-afc2-87da365c3be0",
+		"examples": [
+			"Believing that a small mistake is a huge disaster, while downplaying significant accomplishments."
+		]
+	},
+	{
+		"name": "Catastrophizing",
+		"description": "Giving greater weight to the worst possible outcome, however unlikely, or experiencing a situation as unbearable or impossible when it is just uncomfortable.",
+		"id": "f1f1141d-dc97-4eaa-a963-87c6e7390454",
+		"examples": ["If I don't finish this project on time, I'll lose my job and never work again."]
+	},
+	{
+		"name": "Emotional reasoning",
+		"description": "Experiencing reality as a reflection of emotionally linked thoughts, e.g. \"I feel (i.e. think that I am) stupid or boring, therefore I must be.\"",
+		"id": "b3029d87-c673-4bb1-8d69-b2e4b4d00632",
+		"examples": ["I feel like a failure, so I must be one."]
+	},
+	{
+		"name": "Should statements",
+		"description": "Patterns of moral reasoning based on what a person morally should or ought to do rather than the particular case the person is faced with, or conforming strenuously to ethical categorical imperatives which, by definition, \"always apply\". Albert Ellis termed this \"musturbation\".",
+		"id": "eefde64c-4cbb-4405-a300-4db4f1cc809f",
+		"examples": ["I should have been more supportive; now my friend will never trust me again."]
+	},
+	{
+		"name": "Labeling and mislabeling",
+		"description": "Limited thinking about behaviors or events due to reliance on names; related to overgeneralization. Rather than describing the specific behavior, the person assigns a label to someone or something that implies the character of that person or thing. Describing an event with language that has a strong connotation of a person's evaluation of the event.",
+		"id": "9782efae-8122-4f71-871c-24265134ed12",
+		"examples": ["I made a mistake, so I must be a complete idiot."]
+	},
+	{
+		"name": "Personalization",
+		"description": "Attribution of personal responsibility (or causal role or blame) for events over which a person has no control.",
+		"id": "ca5bace9-a47f-4846-a72a-16a16f20b3a3",
+		"examples": ["My boss is in a bad mood today; it must be because of something I did."]
+	},
+	{
+		"name": "Fallacy of fairness",
+		"description": "Holding an ethical standard that other people don't meet.",
+		"id": "9fb62fbb-2895-428c-a2d5-9b587d61449b",
+		"examples": ["It's not fair that I work so hard and still didn't get the promotion."]
+	},
+	{
+		"name": "Blaming",
+		"description": "Holding other people responsible for the harm they cause, and especially for their intentional or negligent infliction of emotional distress on us.",
+		"id": "aee9e497-141c-45d5-82c0-bb832826af78",
+		"examples": ["It's my parents' fault I have low self-esteem; they never praised me enough."]
+	},
+	{
+		"name": "Fallacy of change ",
+		"description": "Relying on social control to obtain cooperative actions from another person.",
+		"id": "963a17a7-e26b-4474-a4de-5acafee11023",
+		"examples": ["If only my partner would change, our relationship would be perfect."]
+	},
+	{
+		"name": "Always being right ",
+		"description": "Prioritizing truth or ethics over the feelings of another person.",
+		"id": "03f38cef-39c9-436d-90a5-9f1ad3d575ec",
+		"examples": ["I can't accept any criticism, because I know I'm always right."]
+	}
+]
